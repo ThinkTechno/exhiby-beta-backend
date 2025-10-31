@@ -1,1 +1,1 @@
-# exhiby-beta-backend
+# Exhiby Server API
